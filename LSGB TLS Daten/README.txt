@@ -1,0 +1,8 @@
+Holstenstraﬂe/Max-Brauer-Allee (LSA 131)
+Holstenstraﬂe/Thadenstraﬂe (LSA 328)
+Max-Brauer-Allee/Groﬂe Bergstraﬂe (LSA 321)
+Max-Brauer-Allee/Julius-Leber-Straﬂe (LSA 706)
+Max-Brauer-Allee/Paul-Nevermann-Platz (LSA 882)
+Max-Brauer-Allee/Goetheallee (LSA 1771)
+Max-Brauer-Allee/vor Nr.127/von-Nyegaard-Stift (F-LSA 1838)
+Julius-Leber-Straﬂe/Goetheallee (LSA 1405)
